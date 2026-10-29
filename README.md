@@ -58,3 +58,4 @@ Sull'host, dopo l'uscita dal container:
 docker ps -a            # nessun container rimasto
 ls src/                 # test_persistence.txt è ancora presente: il codice persiste
 ```
+# iaccapaolo
