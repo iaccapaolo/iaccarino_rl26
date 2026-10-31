@@ -27,7 +27,7 @@ Poi fare logout e login.
  
 ## Da macchina pulita a container in esecuzione
 ```bash
-git clone https://github.com/<username>/iaccarino_rl26.git
+git clone https://github.com/iaccapaolo/iaccarino_rl26.git
 cd iaccarino_rl26/docker_scripts
 chmod +x *.sh
  
@@ -58,4 +58,3 @@ Sull'host, dopo l'uscita dal container:
 docker ps -a            # nessun container rimasto
 ls src/                 # test_persistence.txt è ancora presente: il codice persiste
 ```
-# iaccapaolo
